@@ -1,0 +1,81 @@
+body {
+	background: #FFE2B2;
+	font-family: Arial, sans-serif;
+	margin-left: auto;
+	margin-right: auto;
+	margin-left: 40px;
+	margin-right: 40px;
+	margin top: 50;
+}
+
+a {
+	color: darkgreen;
+	font-weight: bold;
+	text-decoration-style: dotted;
+}
+
+div {
+	background-color: #FFE2B2;
+}
+
+.bodygraf {
+	margin-top: 10px;
+	margin-bottom: 0px;
+	margin-left: 25px;
+	margin-right: 25px;
+	font-size: 12px;
+	font-style: italic;
+}
+
+.one {
+	margin-top: 50px;
+	margin-bottom: 0px;
+	margin-left: 25px;
+	margin-right: 25px;
+	font-size: 12px; border and/or padding here.*/
+}
+
+.two {
+	margin-top: auto;
+	margin-bottom: auto;
+	/*Tweak the padding settings below and see what happens.*/
+	padding-top: auto;
+	padding-right: auto;
+	padding-left: auto;
+	padding-bottom:auto;
+	border: auto solid black;
+}
+
+.two-content {
+	background-color: #064789;
+	padding: auto;
+	color: white;
+}
+
+.two-content h3 {
+	margin-top: 4px;
+}
+
+.two-content p {
+	margin-bottom: 4px;
+}
+
+.three {
+	margin-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.four {background-color: white;
+	margin-top: 40px;
+	padding: 10px 15px;
+	border: 5px solid black;
+}
+
+img {
+	width: 75%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: auto;
+}
